@@ -2,22 +2,6 @@
 
 > The intelligent, community-driven ecosystem revolutionizing Thalassemia care in India
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [Component Documentation](#component-documentation)
-- [Data Models](#data-models)
-- [API Integration](#api-integration)
-- [Styling & UI](#styling--ui)
-- [Build & Deployment](#build--deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Overview
 
 Project Sanjeevani is a comprehensive web application designed to address the critical need for blood donation and Thalassemia care in India. The platform connects patients, donors, and blood banks through an intelligent, gamified ecosystem that encourages community participation and sustainable support systems.
